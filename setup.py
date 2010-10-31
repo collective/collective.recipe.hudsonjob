@@ -28,9 +28,7 @@ long_description = (
     '**************\n'
     + '\n' +
     read('CHANGES.txt')
-    + '\n' +
-   'Download\n'
-    '********\n')
+)
 
 entry_points = {
     "zc.buildout": ["default = collective.recipe.hudsonjob:Recipe"],

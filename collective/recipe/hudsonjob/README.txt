@@ -108,7 +108,7 @@ And let's make new job at our hudson::
 That's it! Your hudson has a new project, you may need to enter SCM
 credentials the first time.
 
-.. note:: Template will be rendered by buildout on every run. Templating is done with Genshi.
+Template will be rendered by buildout on every run. Templating is done with Genshi.
 
 Adding template support for xml is really straight-forward, feel free to
 contribute (but don't forget tests).
