@@ -1,4 +1,0 @@
-0.1 (2010-10-31)
-=================
-
-- Created initial recipe [iElectric]

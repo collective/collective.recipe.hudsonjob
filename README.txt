@@ -1,4 +1,1 @@
-.. contents::
-
-- Code repository: http://github.com/collective/collective.recipe.hudsonjob
-
+Forked and moved to https://github.com/collective/recipe.collective.jenkinsjob
